@@ -1,0 +1,10 @@
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-SQLAlchemy
+#uwsgi
+#psycopg2
+#flask-jwt
+#PyJWT
+#flask-jwt-extended
+flask-jwt-extended==4.3.1
